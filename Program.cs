@@ -61,7 +61,7 @@
         Console.WriteLine(sonuc1);
         sonuc1 = sayı1+sayı2;
         Console.WriteLine(sonuc1);
-        sonuc1 = sayı1++;           //Bende çalışmadı öğretici kendikini düzeltebildi ama benim olmadı 
+        sonuc1 = ++sayı1;           //Bende çalışmadı öğretici kendikini düzeltebildi ama benim olmadı 
         Console.WriteLine(sonuc1);
 
         // % : Mod alır  (operator buda)
